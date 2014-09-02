@@ -37,7 +37,7 @@ if your want the **both**
 2. multiple formats
 
 
-  '''
+  '''cpp
   int i = 0;
   i ++;
   '''
