@@ -32,13 +32,13 @@ if your want the **both**
 
 ##[Code formatting] - 代码格式
 
-1. inline formats : 'subproject' from 'mainproject'
+1. inline formats : `subproject` from `mainproject`
 
 2. multiple formats
 
 
-  '''cpp
+  ```cpp
   int i = 0;
   i ++;
-  '''
+  ```
 
