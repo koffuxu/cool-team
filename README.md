@@ -1,7 +1,7 @@
 ---
-layout:page
-title:Readme
-permalink:http://www.koffuxu.com
+layout: page
+title: Readme
+permalink: http://www.koffuxu.com
 ---
 
 ***
