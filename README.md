@@ -14,9 +14,9 @@ how to add Blockquotes
 > link this
 
 ##[Styling text](http://www.koffuxu.com) - 文本格式
-this is *BOLD*
+this is **BOLD**
 
-this it **italic**
+this it *italic*
 
 if your want the **both**
 
@@ -32,9 +32,10 @@ if your want the **both**
 
 ##[Code formatting] - 代码格式
 
-1. inline formats :'subproject' from 'mainproject'
+1. inline formats : 'subproject' from 'mainproject'
 
 2. multiple formats
+
 
   '''
   int i = 0;
