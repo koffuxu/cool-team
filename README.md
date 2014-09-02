@@ -21,20 +21,20 @@ this it **italic**
 if your want the **both**
 
 ##[Order/Nested List](http://www.koffuxu.com) - 顺序列表
-1.NanShan
-  1.High Technology Parck
-  2.She Kou
-  3.Xi Li
-2.FuTian
-3.LongGang
+1. NanShan
+  1. High Technology Parck
+  2. She Kou
+  3. Xi Li
+2. FuTian
+3. LongGang
   * Da Feng
   * Nan Lian
 
 ##[Code formatting] - 代码格式
 
-### inline formats :'subproject' from 'mainproject'
+1. inline formats :'subproject' from 'mainproject'
 
-### multiple formats
+2. multiple formats
 
   '''
   int i = 0;
