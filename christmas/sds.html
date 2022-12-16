@@ -121,11 +121,11 @@ ul {
     <li><button class="btn" id="btnD" type="button">Jingle Bell Swing by Mark Smeby</button></li>
     <li class="separator">OR</li>
     <li><button class="btn" id="btnB" type="button">Last Christmas by Tailor Swift, for my girl.</button></li> -->
-    
-    <!-- <li>
+    <li class="separator">或者</li>
+    <li>
       <input type="file" id="upload" hidden />
-      <label for="upload">Upload File</label>
-    </li> -->
+      <label for="upload">上传音乐文件</label>
+    </li>
   </ul>
 </div>
 </div>
@@ -169,7 +169,7 @@ const listener = new THREE.AudioListener();
 
 const audio = new THREE.Audio(listener);
 
-// document.querySelector("input").addEventListener("change", uploadAudio, false);
+document.querySelector("input").addEventListener("change", uploadAudio, false);
 
 const buttons = document.querySelectorAll(".btn");
 buttons.forEach((button, index) =>
@@ -179,7 +179,7 @@ buttons.forEach((button, index) =>
 function init() {
   // const overlay = document.getElementById("overlay");
   // overlay.remove();
-  content = '我爱你';
+  content = '亲爱的, 圣诞节快乐';
   document.getElementById("overlay").innerHTML = '<div class="center"><div class="text-center"><h1>'+content+'</h1></div></div>';
 
   scene = new THREE.Scene();
