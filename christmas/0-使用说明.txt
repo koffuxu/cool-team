@@ -1,0 +1,5 @@
+使用说明：
+1. sds.html和sds-3d.html是HTML实现的圣诞树效果
+3. python文件夹下面是使用python实现的4种圣诞树效果
+4. 修改名字参考教程：https://mp.weixin.qq.com/s/TiT9ovC-HL5AFlJtYWXEoQ
+5. python学习，程序员副业，关注公众号：可夫小子
